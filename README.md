@@ -26,9 +26,3 @@ The goal of this repository is to **create a structured, practical, and interact
 - Build a **strong deep learning foundation**  
 
 ---
-
-## 🚀 How to Use
-
-1. **Clone the repository:**  
-```bash
-git clone https://github.com/<your-username>/Deep-Learning-Projects.git
