@@ -1,8 +1,8 @@
 # 🤖 Deep-Learning-Projects
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/<your-username>/Deep-Learning-Projects?style=for-the-badge)
-![GitHub Language](https://img.shields.io/github/languages/top/<your-username>/Deep-Learning-Projects?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/<your-username>/Deep-Learning-Projects?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/AlphaIntellicore/Deep-Learning-Projects?style=for-the-badge)
+![GitHub Language](https://img.shields.io/github/languages/top/AlphaIntellicore/Deep-Learning-Projects?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/AlphaIntellicore/Deep-Learning-Projects?style=for-the-badge)
 
 ---
 
